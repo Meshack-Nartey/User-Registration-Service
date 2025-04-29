@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: User Registration Service
+mail:
+  host: https://smtp.gmail.com
+  port: 5761
